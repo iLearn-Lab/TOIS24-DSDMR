@@ -13,7 +13,7 @@ Haitao Shi<sup>1</sup>, Meng Liu<sup>2</sup> \*, Xiaoxuan Mu<sup>1</sup>, Xuemen
 
 ## Links
 
-- **Paper**: [`Paper Link`]([<paper-link>](https://dl.acm.org/doi/10.1145/3662732)
+- **Paper**: [`Paper Link`]([<paper-link>](https://dl.acm.org/doi/10.1145/3662732))
 
 ## Updates
 
@@ -30,11 +30,7 @@ This repository provides the official implementation and evaluation scripts.
 
 ## Framework
 
-```markdown
-![Framework](./assets/framework.png)
-```
-
-然后在下面补一句说明：
+![Framework](./assets/framework.png
 
 **Figure 1.** Overall framework of `<DSDMR>`.
 
@@ -56,7 +52,7 @@ python scripts/infer.py
 python scripts/eval.py
 
 
-## Citation
+### Citation
 
 ```bibtex
 @article{DSDMR_TOIS2024,
@@ -75,11 +71,11 @@ python scripts/eval.py
   year         = {2024}
 }
 
-## Acknowledgement
+### Acknowledgement
 
 - Thanks to our supervisor and collaborators for valuable support.
 - Thanks to the open-source community for providing useful baselines and tools.
 
-## License
+### License
 
 This project is released under the Apache License 2.0.
